@@ -1,0 +1,10 @@
+C:\Users\elmer\source\repos\midterm_exam_Q2\midterm_exam_Q2\bin\Debug\midterm_exam_Q2.exe.config
+C:\Users\elmer\source\repos\midterm_exam_Q2\midterm_exam_Q2\bin\Debug\midterm_exam_Q2.exe
+C:\Users\elmer\source\repos\midterm_exam_Q2\midterm_exam_Q2\bin\Debug\midterm_exam_Q2.pdb
+C:\Users\elmer\source\repos\midterm_exam_Q2\midterm_exam_Q2\obj\Debug\midterm_exam_Q2.csproj.AssemblyReference.cache
+C:\Users\elmer\source\repos\midterm_exam_Q2\midterm_exam_Q2\obj\Debug\midterm_exam_Q2.Form1.resources
+C:\Users\elmer\source\repos\midterm_exam_Q2\midterm_exam_Q2\obj\Debug\midterm_exam_Q2.Properties.Resources.resources
+C:\Users\elmer\source\repos\midterm_exam_Q2\midterm_exam_Q2\obj\Debug\midterm_exam_Q2.csproj.GenerateResource.cache
+C:\Users\elmer\source\repos\midterm_exam_Q2\midterm_exam_Q2\obj\Debug\midterm_exam_Q2.csproj.CoreCompileInputs.cache
+C:\Users\elmer\source\repos\midterm_exam_Q2\midterm_exam_Q2\obj\Debug\midterm_exam_Q2.exe
+C:\Users\elmer\source\repos\midterm_exam_Q2\midterm_exam_Q2\obj\Debug\midterm_exam_Q2.pdb
